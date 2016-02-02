@@ -1,0 +1,51 @@
+{
+    "info": {
+        "name": "retro_games",
+        "version": 2
+    },
+
+    "default_locale" : "en",
+
+    "aliases": {
+        "decoration:guybrush_totem": "file(entities/decorations/guybrush_totem)",
+        "decoration:elaine_totem": "file(entities/decorations/elaine_totem)",
+        "decoration:lechuck_totem": "file(entities/decorations/lechuck_totem)",
+        "decoration:3head_monkey_totem": "file(entities/decorations/3head_monkey_totem)",
+        "decoration:herman_totem": "file(entities/decorations/herman_totem)",
+        "decoration:meathook_totem": "file(entities/decorations/meathook_totem)",
+        "decoration:pink_totem": "file(entities/decorations/pink_totem)",
+        "decoration:stan_totem": "file(entities/decorations/stan_totem)",
+        "decoration:pirate_council_totem": "file(entities/decorations/pirate_council_totem)",
+        "decoration:red_herring_totem": "file(entities/decorations/red_herring_totem)",
+        "decoration:guybrush_picture": "file(entities/decorations/guybrush_picture)",
+        "decoration:guybrush_picture_small": "file(entities/decorations/guybrush_picture_small)",
+        "decoration:bernhard_totem": "file(entities/decorations/bernhard_totem)",
+        "decoration:cannibals_totem": "file(entities/decorations/cannibals_totem)",
+        "decoration:carla_totem": "file(entities/decorations/carla_totem)",
+        "decoration:dealer_totem": "file(entities/decorations/dealer_totem)",
+        "decoration:drfred_totem": "file(entities/decorations/drfred_totem)",
+        "decoration:fester_totem": "file(entities/decorations/fester_totem)",
+        "decoration:fettucini_brothers_totem": "file(entities/decorations/fettucini_brothers_totem)",
+        "decoration:green_totem": "file(entities/decorations/green_totem)",
+        "decoration:guybrush_dog_totem": "file(entities/decorations/guybrush_dog_totem)",
+        "decoration:guybrush_father_totem": "file(entities/decorations/guybrush_father_totem)",
+        "decoration:guybrush_mother_totem": "file(entities/decorations/guybrush_mother_totem)",
+        "decoration:guybrush_totem2": "file(entities/decorations/guybrush_totem2)",
+        "decoration:hoagie_totem": "file(entities/decorations/hoagie_totem)",
+        "decoration:jojo_totem": "file(entities/decorations/jojo_totem)",
+        "decoration:kate_totem": "file(entities/decorations/kate_totem)",
+        "decoration:largo_totem": "file(entities/decorations/largo_totem)",
+        "decoration:laverne_totem": "file(entities/decorations/laverne_totem)",
+        "decoration:lechuck_ghost_totem": "file(entities/decorations/lechuck_ghost_totem)",
+        "decoration:librarian_totem": "file(entities/decorations/librarian_totem)",
+        "decoration:otis_totem": "file(entities/decorations/otis_totem)",
+        "decoration:smirk_totem": "file(entities/decorations/smirk_totem)",
+        "decoration:voodoo_totem": "file(entities/decorations/voodoo_totem)",
+        "decoration:wally_totem": "file(entities/decorations/wally_totem)"
+        
+    },
+     "mixintos" : {
+      "file(stonehearth/jobs/mason/recipes/recipes.json)" : "file(recipes/recipes.json)"
+    } 
+}
+        

@@ -1,0 +1,115 @@
+{
+   "craftable_recipes": {
+      "decoration": {
+         "ordinal": 5,
+         "name": "i18n(stonehearth:jobs.mason.recipes.building_parts_name)",
+         "recipes": {
+            "guybrush_totem": {
+               "recipe": "file(guybrush_totem_recipe.json)"
+            },
+            "elaine_totem": {
+               "recipe": "file(elaine_totem_recipe.json)"
+            },
+            "lechuck_totem": {
+               "recipe": "file(lechuck_totem_recipe.json)"
+            },
+            "herman_totem": {
+               "recipe": "file(herman_totem_recipe.json)"
+            },
+            "3head_monkey_totem": {
+               "recipe": "file(3head_monkey_totem_recipe.json)"
+            },
+            "meathook_totem": {
+               "recipe": "file(meathook_totem_recipe.json)"
+            },
+            "pink_totem": {
+               "recipe": "file(pink_totem_recipe.json)"
+            },
+            "stan_totem": {
+               "recipe": "file(stan_totem_recipe.json)"
+            },
+            "pirate_totem": {
+               "recipe": "file(pirate_council_totem_recipe.json)"
+            },
+            "guybrush_picture": {
+               "recipe": "file(guybrush_picture_recipe.json)"
+            },
+            "guybrush_picture_small": {
+               "recipe": "file(guybrush_picture_small_recipe.json)"
+            },
+            "red_herring_totem": {
+               "recipe": "file(red_herring_totem_recipe.json)"
+            },
+            "bernhard_totem": {
+               "recipe": "file(bernhard_totem_recipe.json)"
+            },
+            "cannibals_totem": {
+               "recipe": "file(cannibals_totem_recipe.json)"
+            },
+            "carla_totem": {
+               "recipe": "file(carla_totem_recipe.json)"
+            },
+            "dealer_totem": {
+               "recipe": "file(dealer_totem_recipe.json)"
+            },
+            "drfred_totem": {
+               "recipe": "file(drfred_totem_recipe.json)"
+            },
+            "fester_totem": {
+               "recipe": "file(fester_totem_recipe.json)"
+            },
+            "fettucini_brothers_totem": {
+               "recipe": "file(fettucini_brothers_totem_recipe.json)"
+            },
+            "green_totem": {
+               "recipe": "file(green_totem_recipe.json)"
+            },
+            "guybrush_dog_totem": {
+               "recipe": "file(guybrush_dog_totem_recipe.json)"
+            },
+            "guybrush_father_totem": {
+               "recipe": "file(guybrush_father_totem_recipe.json)"
+            },
+            "guybrush_mother_totem": {
+               "recipe": "file(guybrush_mother_totem_recipe.json)"
+            },
+            "guybrush_totem2": {
+               "recipe": "file(guybrush_totem2_recipe.json)"
+            },
+            "hoagie_totem": {
+               "recipe": "file(hoagie_totem_recipe.json)"
+            },
+            "jojo_totem": {
+               "recipe": "file(jojo_totem_recipe.json)"
+            },
+            "kate_totem": {
+               "recipe": "file(kate_totem_recipe.json)"
+            },
+            "largo_totem": {
+               "recipe": "file(largo_totem_recipe.json)"
+            },
+            "laverne_totem": {
+               "recipe": "file(laverne_totem_recipe.json)"
+            },
+            "lechuck_ghost_totem": {
+               "recipe": "file(lechuck_ghost_totem_recipe.json)"
+            },
+            "librarian_totem": {
+               "recipe": "file(librarian_totem_recipe.json)"
+            },
+            "otis_totem": {
+               "recipe": "file(otis_totem_recipe.json)"
+            },
+            "smirk_totem": {
+               "recipe": "file(smirk_totem_recipe.json)"
+            },
+            "voodoo_totem": {
+               "recipe": "file(voodoo_totem_recipe.json)"
+            },
+            "wally_totem": {
+               "recipe": "file(wally_totem_recipe.json)"
+            }
+         }
+      }
+   }
+}

@@ -1,0 +1,28 @@
+{
+   "type": "entity",
+   "mixins": "stonehearth:mixins:item_properties",
+   "components" : {
+      "unit_info" : {
+         "name" :  "Guybrush Picture",
+         "description" : "Its Guybrush Threepwood"
+      },
+      "render_info": {
+         "scale": 0.01
+      },
+      "item" : {
+         "category" : "gear"   
+      },
+       "stonehearth:material" : {
+         "tags" : "tool"
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(guybrush_picture_iconic.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data" : {
+   }
+}

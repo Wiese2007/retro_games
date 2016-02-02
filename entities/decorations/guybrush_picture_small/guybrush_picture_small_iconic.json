@@ -1,0 +1,22 @@
+{
+   "type": "entity",
+   "mixins": "stonehearth:mixins:item_properties",
+   "components" : {
+      "item" : {
+         "category" : "decoration"
+      },
+      "render_info": {
+         "scale": 0.008
+      },
+      "mob" : {
+         "model_origin" : { "x": -0.05, "y": 0, "z": 0.05 }
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(guybrush_picture_small_iconic.qb)"
+            ]
+         }
+      }
+   }
+}

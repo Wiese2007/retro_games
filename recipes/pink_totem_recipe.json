@@ -1,0 +1,20 @@
+{
+   "type":"recipe",
+   "work_units"  : 2,
+   "recipe_name" : "i18n(retro_games:recipes.pink_totem_recipe.recipe_name)",
+   "description" : "i18n(retro_games:recipes.pink_totem_recipe.description)",
+   "flavor"      : "i18n(retro_games:recipes.pink_totem_recipe.flavor)",
+   "portrait"    : "/retro_games/entities/decorations/pink_totem/pink_totem.png", 
+   "workshop" : "stonehearth:mason:workbench",
+   "ingredients": [
+      {
+         "material" : "stone resource",
+         "count" : 4
+      }
+  ],
+  "produces": [
+      {
+         "item":"retro_games:decoration:pink_totem"
+      }
+  ]
+}

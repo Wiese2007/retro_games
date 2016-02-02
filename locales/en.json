@@ -1,0 +1,393 @@
+{
+	"entities": {
+		"decorations":{
+			"guybrush_totem": {
+				"guybrush_totem_ghost": {
+					"display_name" : "Guybrush Threepwood",
+					"description" : "I’m a mighty pirate!"
+				}	
+			},
+			"elaine_totem": {
+				"elaine_totem_ghost": {
+					"display_name" : "Elaine Marley",
+					"description" : "GUYBRUSH!"
+				}	
+			},
+			"red_herring_totem": {
+				"red_herring_totem_ghost": {
+					"display_name" : "Red Herring",
+					"description" : "Because Averest has asked!"
+				}	
+			},
+			"lechuck_totem": {
+				"lechuck_totem_ghost": {
+					"display_name" : "LeChuck",
+					"description" : "I-- --am your brother!"
+				}	
+			},
+			"3head_monkey_totem": {
+				"3head_monkey_totem_ghost": {
+					"display_name" : "3 Headed Monkey",
+					"description" : "Look behind you, a Three-Headed Monkey!"
+				}	
+			},
+			"herman_totem": {
+				"herman_totem_ghost": {
+					"display_name" : "Herman Toothrot Marley",
+					"description" : "If a tree falls in the forest and no one is around to hear it, what color is the tree?"
+				}	
+			},
+			"meathook_totem": {
+				"meathook_totem_ghost": {
+					"display_name" : "Meathook",
+					"description" : "Roger can speak!"
+				}	
+			},
+			"pink_totem": {
+				"pink_totem_ghost": {
+					"display_name" : "Purple Tentacle",
+					"description" : "Humans are our oppressors! They made us live in this horrible motel! They created us in ungainly forms so we could not rise against them! Try walking around with your legs tied together and glue on your shoes, you'll see what I mean!"
+				}	
+			},
+			"stan_totem": {
+				"stan_totem_ghost": {
+					"display_name" : "Smilin' Stan",
+					"description" : "Here. Take one of my business cards that I've had made up."
+				}	
+			},
+			"pirate_council_totem": {
+				"pirate_council_totem_ghost": {
+					"display_name" : "Pirate Council",
+					"description" : "Leader of the Pirates"
+				}	
+			},
+			"guybrush_picture": {
+				"guybrush_picture_ghost": {
+					"display_name" : "Guybrush Picture",
+					"description" : "The Scare of Meathook!"
+				}
+			},
+			"guybrush_picture_small": {
+				"guybrush_picture_small_ghost": {
+					"display_name" : "Guybrush Wandpicture",
+					"description" : "I’m a mighty pirate!"
+				}
+			},
+			"bernhard_totem": {
+				"bernhard_totem_ghost": {
+					"display_name" : "Bernard Bernoulli",
+					"description" : "Hes the nerd - who you want to be"
+				}	
+			},
+			"cannibals_totem": {
+				"cannibals_totem_ghost": {
+					"display_name" : "The 3 Cannibals",
+					"description" : "Dont let them eat you!"
+				}	
+			},
+			"carla_totem": {
+				"carla_totem_ghost": {
+					"display_name" : "Carla the Swordmaster",
+					"description" : "She is the Master of Swordfight!!!"
+				}	
+			},
+			"dealer_totem": {
+				"dealer_totem_ghost": {
+					"display_name" : "Dealer",
+					"description" : "Hey! Hey! Do you need something?"
+				}	
+			},
+			"drfred_totem": {
+				"drfred_totem_ghost": {
+					"display_name" : "Dr. Fred Edison",
+					"description" : "Dr. Fred Edison is the main villain ... or was it Purple?"
+				}	
+			},
+			"fester_totem": {
+				"fester_totem_ghost": {
+					"display_name" : "Fester Shinetop",
+					"description" : "He is just a mask!"
+				}	
+			},
+			"fettucini_brothers_totem": {
+				"fettucini_brothers_totem_ghost": {
+					"display_name" : "Fettucini Brothers",
+					"description" : "This are Alfred and Bill"
+				}	
+			},
+			"green_totem": {
+				"green_totem_ghost": {
+					"display_name" : "Green Tentacle",
+					"description" : "He is one of Dr. Fred Edison's two pet tentacles!"
+				}	
+			},
+			"guybrush_dog_totem": {
+				"guybrush_dog_totem_ghost": {
+					"display_name" : "Guybrush Jr.",
+					"description" : "Aruff!"
+				}	
+			},
+			"guybrush_father_totem": {
+				"guybrush_father_totem_ghost": {
+					"display_name" : "Guybrushs Father",
+					"description" : "He is the Father of Guybrush and dances for him."
+				}	
+			},
+			"guybrush_mother_totem": {
+				"guybrush_mother_totem_ghost": {
+					"display_name" : "Guybrushs Mother",
+					"description" : "She is the Mother of Guybrush and dances for him, too."
+				}	
+			},
+			"guybrush_totem2": {
+				"guybrush_totem2_ghost": {
+					"display_name" : "Guybrush1",
+					"description" : "Its the first and only Guybrush!"
+				}	
+			},
+			"hoagie_totem": {
+				"hoagie_totem_ghost": {
+					"display_name" : "Roadie Hoagie",
+					"description" : "You mean horses have been snubbing me my whole life?"
+				}	
+			},
+			"jojo_totem": {
+				"jojo_totem_ghost": {
+					"display_name" : "Jojo the Piano Monkey",
+					"description" : "Banana?!?!"
+				}	
+			},
+			"kate_totem": {
+				"kate_totem_ghost": {
+					"display_name" : "Captain Kate Capsize",
+					"description" : "She is tough as nails and hard as steel!"
+				}	
+			},
+			"largo_totem": {
+				"largo_totem_ghost": {
+					"display_name" : "Largo LaGrande",
+					"description" : "He was a Pirate and LeChuck's right hand."
+				}	
+			},
+			"laverne_totem": {
+				"laverne_totem_ghost": {
+					"display_name" : "Laverne",
+					"description" : "She is the crazy cheerleader chick!"
+				}	
+			},
+			"lechuck_ghost_totem": {
+				"lechuck_ghost_totem_ghost": {
+					"display_name" : "LeChuck the Ghost",
+					"description" : "He is the original one!"
+				}	
+			},
+			"librarian_totem": {
+				"librarian_totem_ghost": {
+					"display_name" : "THE Librarian",
+					"description" : "If you need a book she is your ... women?"
+				}	
+			},
+			"otis_totem": {
+				"otis_totem_ghost": {
+					"display_name" : "Otis",
+					"description" : "He is a local thief and needs really a peppermint!"
+				}	
+			},
+			"smirk_totem": {
+				"smirk_totem_ghost": {
+					"display_name" : "Captain Smirk",
+					"description" : "He teaches you how to fight!"
+				}	
+			},
+			"voodoo_totem": {
+				"voodoo_totem_ghost": {
+					"display_name" : "Voodoo Lady",
+					"description" : "She is a well-known traveling Voodoo Priestess and self-proclaimed fashion consultant."
+				}	
+			},
+			"wally_totem": {
+				"wally_totem_ghost": {
+					"display_name" : "Wally B. Feed",
+					"description" : "Bloodnose the pirate"
+				}	
+			}
+		}
+	},
+	"recipes": {
+		"guybrush_totem_recipe": {
+			"recipe_name" : "Guybrush2",
+			"description" : "Its Guybrush Threepwood",
+			"flavor" : "He can hold 10 Minutes his breath!"
+		},
+		"red_herring_totem_recipe": {
+			"recipe_name" : "Red Herring Totem",
+			"description" : "Because Averest has asked!",
+			"flavor" : "You will need him!!!"
+		},
+		"guybrush_picture_recipe": {
+			"recipe_name" : "Guybrush Picture",
+			"description" : "Its Guybrush Threepwood",
+			"flavor" : "He´s a mighty pirate!"
+		},
+		"guybrush_picture_small_recipe": {
+			"recipe_name" : "Guybrush Wandpicture",
+			"description" : "Its Guybrush Threepwood",
+			"flavor" : "He´s a mighty pirate!"
+		},
+		"elaine_totem_recipe": {
+			"recipe_name" : "Elaine Totem",
+			"description" : "GUYBRUSH!",
+			"flavor" : "She loves Guybrush!"
+		},
+		"lechuck_totem_recipe": {
+			"recipe_name" : "LeChuck Totem",
+			"description" : "I-- --am your brother!",
+			"flavor" : "He´s the brother of Guybrush ... in another Universe."
+		},
+		"3head_monkey_totem_recipe": {
+			"recipe_name" : "3 Headed Monkey",
+			"description" : "Look behind you, a Three-Headed Monkey!",
+			"flavor" : "I want him or them? as a pet!"
+		},
+		"herman_totem_recipe": {
+			"recipe_name" : "Herman Toothrot Marley",
+			"description" : "If a tree falls in the forest and no one is around to hear it, what color is the tree?",
+			"flavor" : "He´s the grandfather of Elaine!"
+		},
+		"meathook_totem_recipe": {
+			"recipe_name" : "Meathook Totem",
+			"description" : "Roger can speak!",
+			"flavor" : "He fears the extrem violent ... parrot?"
+		},
+		"pink_totem_recipe": {
+			"recipe_name" : "Purple Tentacle",
+			"description" : "He wants to conquer the earth",
+			"flavor" : "He´s the equivalent to pinky"
+		},
+		"stan_totem_recipe": {
+			"recipe_name" : "Smilin' Stan",
+			"description" : "He wants to sell you your soul!",
+			"flavor" : "He loves to sell and speak ... ok mostly speaking xD"
+		},
+		"pirate_council_totem_recipe": {
+			"recipe_name" : "Pirate Council",
+			"description" : "Leader of the Pirates",
+			"flavor" : "They have 3 tasks for you!"
+		},
+		"bernhard_totem_recipe": {
+			"recipe_name" : "Bernard Bernoulli",
+			"description" : "Hes the nerd - who you want to be",
+			"flavor" : "Isn't it a little late for that, Doctor?"
+		},
+		"cannibals_totem_recipe": {
+			"recipe_name" : "The 3 Cannibals",
+			"description" : "Dont let them eat you!",
+			"flavor" : "Is that a banana in you're pants, or are you just happy to see us?"
+		},
+		"carla_totem_recipe": {
+			"recipe_name" : "Carla the Swordmaster",
+			"description" : "She is the Master of Swordfight!!! ... and have T-shirts for the winners xD",
+			"flavor" : "She can fight like a Cow! Good that you fight like a dairy farmer!"
+		},
+		"dealer_totem_recipe": {
+			"recipe_name" : "Dealer",
+			"description" : "Hey! Hey! Do you need something?",
+			"flavor" : "Excuse me, but do you have a cousing named Sven?"
+		},
+		"drfred_totem_recipe": {
+			"recipe_name" : "Dr. Fred Edison",
+			"description" : "Dr. Fred Edison is the main villain ... or was it Purple?",
+			"flavor" : "I think I've made myself totally clear, Step one: Find Plans, Step two: Save World, Step three: Get out of my house! Let's get cracking!"
+		},
+		"fester_totem_recipe": {
+			"recipe_name" : "Fester Shinetop",
+			"description" : "He is just a mask!",
+			"flavor" : "Oh really? I know a really safe locker you could put it in... Davey Jones' Locker!!! Hand over your sword!"
+		},
+		"fettucini_brothers_totem_recipe": {
+			"recipe_name" : "Fettucini Brothers",
+			"description" : "This are Alfred and Bill",
+			"flavor" : "Oh, you've got to have a helmet-- Can't do the cannon trick without a helmet."
+		},
+		"green_totem_recipe": {
+			"recipe_name" : "Green Tentacle",
+			"description" : "He is one of Dr. Fred Edison's two pet tentacles!",
+			"flavor" : "Disco Sucks!!!"
+		},
+		"guybrush_dog_totem_recipe": {
+			"recipe_name" : "Guybrush Jr.",
+			"description" : "He had a knack for finding Elains possessions, was otherwise fairly useless and had a habit of getting in the way.Because Averest has asked!",
+			"flavor" : "Aruff!"
+		},
+		"guybrush_father_totem_recipe": {
+			"recipe_name" : "Guybrushs Father",
+			"description" : "He is the Father of Guybrush and dances for him.",
+			"flavor" : "The Headbone to the ......"
+		},
+		"guybrush_mother_totem_recipe": {
+			"recipe_name" : "Guybrushs Mother",
+			"description" : "She is the Mother of Guybrush and dances for him, too.",
+			"flavor" : "The Legbone to the ......."
+		},
+		"guybrush_totem2_recipe": {
+			"recipe_name" : "Guybrush1",
+			"description" : "Its the first and only Guybrush!",
+			"flavor" : "I have fought the Swordmaster!"
+		},
+		"hoagie_totem_recipe": {
+			"recipe_name" : "Roadie Hoagie",
+			"description" : "You mean horses have been snubbing me my whole life?",
+			"flavor" : "Look its Benjamin Franklin!"
+		},
+		"jojo_totem_recipe": {
+			"recipe_name" : "Jojo the Piano Monkey",
+			"description" : "Banana?!?!",
+			"flavor" : "He is literally a 'monkey wrench' xD"
+		},
+		"kate_totem_recipe": {
+			"recipe_name" : "Captain Kate Capsize",
+			"description" : "She is tough as nails and hard as steel!",
+			"flavor" : "How'd you like a nice Fruit Punch?"
+		},
+		"largo_totem_recipe": {
+			"recipe_name" : "Largo LaGrande",
+			"description" : "He was a Pirate and LeChuck's right hand.",
+			"flavor" : "HA! Scream all you want, there are no police on Scabb Island."
+		},
+		"laverne_totem_recipe": {
+			"recipe_name" : "Laverne",
+			"description" : "She is the crazy cheerleader chick!",
+			"flavor" : "This is all your fault Bernard. "
+		},
+		"lechuck_ghost_totem_recipe": {
+			"recipe_name" : "LeChuck the Ghost",
+			"description" : "He is the original one!",
+			"flavor" : "Isnt it great to have the winds of hell blowi'n in your face? "
+		},
+		"librarian_totem_recipe": {
+			"recipe_name" : "THE Librarian",
+			"description" : "If you need a book she is your ... women?",
+			"flavor" : "Huiiiiii!!!!!!"
+		},
+		"otis_totem_recipe": {
+			"recipe_name" : "Otis",
+			"description" : "He is a local thief and needs really a peppermint!",
+			"flavor" : "Otis is named after Otis Campbell, the town drunk from The Andy Griffith Show, who often did time in jail."
+		},
+		"smirk_totem_recipe": {
+			"recipe_name" : "Captain Smirk",
+			"description" : "He teaches you how to fight!",
+			"flavor" : "Yes, swinging a rubber chicken with a metal pully in the middle can be dangerous....BUT IT'S NOT A SWORD!!!!!!"
+		},
+		"voodoo_totem_recipe": {
+			"recipe_name" : "Voodoo Lady",
+			"description" : "She is a well-known traveling Voodoo Priestess and self-proclaimed fashion consultant.",
+			"flavor" : "I can’t make the one thing this island could really use… a voodoo doll of Largo LaGrande!"
+		},
+		"wally_totem_recipe": {
+			"recipe_name" : "Wally B. Feed",
+			"description" : "Bloodnose the pirate",
+			"flavor" : "I feel like I could, TAKE ON THE WORLD!"
+		}
+	}
+}

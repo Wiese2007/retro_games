@@ -1,0 +1,35 @@
+{
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(carla_totem.qb)"
+            ]
+         }
+      },
+      "render_info": {
+         "scale": 0.05
+      },
+      "unit_info": {
+         "description": "i18n(retro_games:entities.decorations.carla_totem.carla_totem_ghost.description)",
+         "icon": "file(carla_totem.png)",
+         "display_name": "i18n(retro_games:entities.decorations.carla_totem.carla_totem_ghost.display_name)"
+      },
+      "stonehearth:material": {
+         "tags": "stone furniture crafted"
+      },
+      "mob": {
+         "model_origin": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+         },
+         "region_origin": {
+            "x": 0.5,
+            "y": 0,
+            "z": 0.5
+         }
+      }
+   }
+}
