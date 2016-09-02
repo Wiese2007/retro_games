@@ -1,15 +1,12 @@
 {
    "type": "entity",
    "mixins": "stonehearth:mixins:item_properties",
-   "components" : {
-      "item" : {
-         "category" : "decoration"
-      },
+   "components": {
       "render_info": {
          "scale": 0.008
       },
-      "mob" : {
-         "model_origin" : { "x": -0.05, "y": 0, "z": 0.05 }
+      "mob": {
+         "model_origin": { "x": -0.05, "y": 0, "z": 0.05 }
       },
       "model_variants": {
          "default": {
@@ -17,6 +14,12 @@
                "file(guybrush_picture_small_iconic.qb)"
             ]
          }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "is_item": true,
+         "category": "decoration"
       }
    }
 }

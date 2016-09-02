@@ -1,15 +1,12 @@
 {
    "type": "entity",
    "mixins": "stonehearth:mixins:item_properties",
-   "components" : {
-      "item" : {
-         "category" : "gear"   
-      },
+   "components": {
       "render_info": {
          "scale": 0.02
       },
-       "stonehearth:material" : {
-         "tags" : "tool"
+      "stonehearth:material": {
+         "tags": "tool"
       },
       "model_variants": {
          "default": {
@@ -19,6 +16,10 @@
          }
       }
    },
-   "entity_data" : {
+   "entity_data": {
+      "stonehearth:catalog": {
+         "is_item": true,
+         "category": "gear"
+      }
    }
 }
