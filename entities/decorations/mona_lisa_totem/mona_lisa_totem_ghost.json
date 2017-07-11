@@ -1,0 +1,28 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(mona_lisa_totem.qb)"
+            ]
+         }
+      },
+      "stonehearth:material": {
+         "tags": "stone furniture crafted"
+      },
+      "mob": {
+         "model_origin": { "x": 0, "y": 0, "z": 0 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "description": "i18n(retro_games:entities.decorations.mona_lisa_totem.mona_lisa_totem_ghost.description)",
+         "icon": "file(mona_lisa_totem.png)",
+         "display_name": "i18n(retro_games:entities.decorations.mona_lisa_totem.mona_lisa_totem_ghost.display_name)",
+         "category": "gear"
+      }
+   }
+}

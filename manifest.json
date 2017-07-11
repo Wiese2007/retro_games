@@ -13,6 +13,7 @@
         "decoration:3head_monkey_totem": "file(entities/decorations/3head_monkey_totem)",
         "decoration:herman_totem": "file(entities/decorations/herman_totem)",
         "decoration:meathook_totem": "file(entities/decorations/meathook_totem)",
+        "decoration:mona_lisa_totem": "file(entities/decorations/mona_lisa_totem)",
         "decoration:pink_totem": "file(entities/decorations/pink_totem)",
         "decoration:stan_totem": "file(entities/decorations/stan_totem)",
         "decoration:pirate_council_totem": "file(entities/decorations/pirate_council_totem)",
